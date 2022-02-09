@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://dtbendeguz.github.io/csb-iop3u/static/js/main.01ce44f2.chunk.js",
+    "main.js.map": "https://dtbendeguz.github.io/csb-iop3u/static/js/main.01ce44f2.chunk.js.map",
+    "runtime-main.js": "https://dtbendeguz.github.io/csb-iop3u/static/js/runtime-main.c55e257f.js",
+    "runtime-main.js.map": "https://dtbendeguz.github.io/csb-iop3u/static/js/runtime-main.c55e257f.js.map",
+    "static/js/2.cad228ae.chunk.js": "https://dtbendeguz.github.io/csb-iop3u/static/js/2.cad228ae.chunk.js",
+    "static/js/2.cad228ae.chunk.js.map": "https://dtbendeguz.github.io/csb-iop3u/static/js/2.cad228ae.chunk.js.map",
+    "index.html": "https://dtbendeguz.github.io/csb-iop3u/index.html",
+    "precache-manifest.1b4275bb86af7476ff108397671e1446.js": "https://dtbendeguz.github.io/csb-iop3u/precache-manifest.1b4275bb86af7476ff108397671e1446.js",
+    "service-worker.js": "https://dtbendeguz.github.io/csb-iop3u/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c55e257f.js",
+    "static/js/2.cad228ae.chunk.js",
+    "static/js/main.01ce44f2.chunk.js"
+  ]
+}
